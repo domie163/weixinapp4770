@@ -1,0 +1,328 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#bc95c6",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+		,{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarBackgroundColor": "#bc95c6",
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "充值"
+			}
+		}
+
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/fuwuxiangmu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "服务项目展示"
+		}
+	},{
+		"path": "pages/fuwuxiangmu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的服务项目"
+		}
+	},{
+		"path": "pages/fuwuxiangmu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "服务项目添加/修改"
+		}
+	},{
+		"path": "pages/fuwuxiangmu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "服务项目详情"
+		}
+	}
+	,{
+		"path": "pages/fuwuxiangmuYuyue/list",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "服务项目预约展示"
+		}
+	},{
+		"path": "pages/fuwuxiangmuYuyue/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的服务项目预约"
+		}
+	},{
+		"path": "pages/fuwuxiangmuYuyue/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "服务项目预约添加/修改"
+		}
+	},{
+		"path": "pages/fuwuxiangmuYuyue/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "服务项目预约详情"
+		}
+	}
+	,{
+		"path": "pages/meishi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "餐食目录展示"
+		}
+	},{
+		"path": "pages/meishi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的餐食目录"
+		}
+	},{
+		"path": "pages/meishi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "餐食目录添加/修改"
+		}
+	},{
+		"path": "pages/meishi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "餐食目录详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告资讯展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告资讯"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告资讯添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告资讯详情"
+		}
+	}
+	,{
+		"path": "pages/yisheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "医生展示"
+		}
+	},{
+		"path": "pages/yisheng/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的医生"
+		}
+	},{
+		"path": "pages/yisheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "医生添加/修改"
+		}
+	},{
+		"path": "pages/yisheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "医生详情"
+		}
+	}
+	,{
+		"path": "pages/yishengOrder/list",
+		"style": {
+			"navigationBarTitleText": "挂号订单"
+		}
+	},{
+		"path": "pages/yishengOrder/confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#bc95c6",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "微信小程序养老院系统首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "微信小程序养老院系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#8DA2EE",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/fuwuxiangmu/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "服务项目"
+			}
+			,{
+				"pagePath": "pages/yisheng/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "医生"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
